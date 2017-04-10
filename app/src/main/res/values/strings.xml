@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">First_Map_Application</string>
+    <string name="title_activity_maps">Map</string>
+    <!-- Weather -->
+    <string name="d01">clear sky</string>
+    <string name="n01">clear sky</string>
+    <string name="d02">few clouds</string>
+    <string name="n02">few clouds</string>
+    <string name="d03">scattered clouds</string>
+    <string name="n03">scattered clouds</string>
+    <string name="d04">broken clouds</string>
+    <string name="n04">broken clouds</string>
+    <string name="d09">shower rain</string>
+    <string name="n09">shower rain</string>
+    <string name="d10">rain</string>
+    <string name="n10">rain</string>
+    <string name="d11">thunderstorm</string>
+    <string name="n11">thunderstorm</string>
+    <string name="d13">snow</string>
+    <string name="n13">snow</string>
+    <string name="d50">mist</string>
+    <string name="n50">mist</string>
+
+    <!-- end weather -->
+
+</resources>

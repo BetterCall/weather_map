@@ -1,0 +1,61 @@
+package com.example.franck.first_map_application.weather.simple.objectData.sys;
+
+/**
+ * Created by Franck on 07/04/2017.
+ */
+
+public class Sys {
+    private double message;
+    private String country ;
+    private long sunrise ;
+    private long sunset ;
+
+    public Sys(double message, String country, long sunrise, long sunset) {
+        this.message = message;
+        this.country = country;
+        this.sunrise = sunrise;
+        this.sunset = sunset;
+    }
+
+    @Override
+    public String toString() {
+        return "Sys{" +
+                "message=" + message +
+                ", country='" + country + '\'' +
+                ", sunrise=" + sunrise +
+                ", sunset=" + sunset +
+                '}';
+    }
+
+    public double getMessage() {
+        return message;
+    }
+
+    public void setMessage(double message) {
+        this.message = message;
+    }
+
+    public String getCountry() {
+        return country;
+    }
+
+    public void setCountry(String country) {
+        this.country = country;
+    }
+
+    public long getSunrise() {
+        return sunrise;
+    }
+
+    public void setSunrise(long sunrise) {
+        this.sunrise = sunrise;
+    }
+
+    public long getSunset() {
+        return sunset;
+    }
+
+    public void setSunset(long sunset) {
+        this.sunset = sunset;
+    }
+}

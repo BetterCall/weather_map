@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\Franck\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.7\751f548c85fa49f330cecbb1875893f971b33c4e\gson-2.7.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="751f548c85fa49f330cecbb1875893f971b33c4e">
+        <dex dex="C:\Users\Franck\AndroidStudioProjects\First_Map_Application\app\build\intermediates\pre-dexed\debug\gson-2.7_00dc1ee064b23f4e93b8fd35987228565dbfe2c2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Franck\.android\build-cache\47728252a00060dfa125cd4f22348bcbf7579dd5\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bd75f9f0296fe220da6d0ad961831b04541c4452">
+        <dex dex="C:\Users\Franck\AndroidStudioProjects\First_Map_Application\app\build\intermediates\pre-dexed\debug\classes_c605890cc0342e5a1fb7b39b6d014a516eb1abd8.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Franck\.android\build-cache\b9b087afb82376ba81eea47760621f61750ba86a\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8030b5d30757f9bf35bb982737697386b86c157e">
+        <dex dex="C:\Users\Franck\AndroidStudioProjects\First_Map_Application\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_9e4dbfa4efef9e1d268c86c9a211ced85fc87e10\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Franck\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp\3.6.0\69edde9fc4b01c9fd51d25b83428837478c27254\okhttp-3.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="69edde9fc4b01c9fd51d25b83428837478c27254">
+        <dex dex="C:\Users\Franck\AndroidStudioProjects\First_Map_Application\app\build\intermediates\pre-dexed\debug\okhttp-3.6.0_e3b31122e408dc9f9c3f2821d405ab6c9e2a0c89.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Franck\AndroidStudioProjects\First_Map_Application\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c82741bc129dd5f99f11a4ab8666ae24262053b6">
+        <dex dex="C:\Users\Franck\AndroidStudioProjects\First_Map_Application\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_0d252645c0230da93ddb56752a7dfc47e9d2efb9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Franck\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp\3.6.0\69edde9fc4b01c9fd51d25b83428837478c27254\okhttp-3.6.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="69edde9fc4b01c9fd51d25b83428837478c27254">
+        <dex dex="C:\Users\Franck\AndroidStudioProjects\First_Map_Application\app\build\intermediates\transforms\dex\debug\folders\1000\10\okhttp-3.6.0_e3b31122e408dc9f9c3f2821d405ab6c9e2a0c89\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Franck\.android\build-cache\4d9529af19fbd33a6411ac6e1e14c98b58d979cb\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6da05b7498da036b5b37c3beb861cd2060929dcd">
+        <dex dex="C:\Users\Franck\AndroidStudioProjects\First_Map_Application\app\build\intermediates\pre-dexed\debug\classes_379d9225469cfd529a6b82f1a7c6d02bbd542647.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Franck\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.11.0\840897fcd7223a8143f1d9b6f69714e7be34fd50\okio-1.11.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="840897fcd7223a8143f1d9b6f69714e7be34fd50">
+        <dex dex="C:\Users\Franck\AndroidStudioProjects\First_Map_Application\app\build\intermediates\transforms\dex\debug\folders\1000\10\okio-1.11.0_6e80abe81652af1d4bb54c88baffa38419a814bf\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Franck\AndroidStudioProjects\First_Map_Application\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f32ee46d3609f3d7b59e7f82c6b6b80a3949789e">
+        <dex dex="C:\Users\Franck\AndroidStudioProjects\First_Map_Application\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_9450b84259480233a433277e880b3edec6c9e763\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Franck\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.11.0\840897fcd7223a8143f1d9b6f69714e7be34fd50\okio-1.11.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="840897fcd7223a8143f1d9b6f69714e7be34fd50">
+        <dex dex="C:\Users\Franck\AndroidStudioProjects\First_Map_Application\app\build\intermediates\pre-dexed\debug\okio-1.11.0_6e80abe81652af1d4bb54c88baffa38419a814bf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Franck\.android\build-cache\8d67bacae01279a7c43523b1d237b3d54287f10e\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1ac56e5801e986583cbe27f2cce57f626cc7ff93">
+        <dex dex="C:\Users\Franck\AndroidStudioProjects\First_Map_Application\app\build\intermediates\pre-dexed\debug\classes_8c76f242c04cccb0c31866b8c5ebccad5e5d3835.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Franck\.android\build-cache\b1dc58ab6097d21c1dce6feea30312249411ac93\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3d13e510077b35fe8e49930a627dd849ad5da0dc">
+        <dex dex="C:\Users\Franck\AndroidStudioProjects\First_Map_Application\app\build\intermediates\pre-dexed\debug\classes_ec4e6664a6b5e1830412c1d4c75bdaa117f20413.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Franck\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.7\751f548c85fa49f330cecbb1875893f971b33c4e\gson-2.7.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="751f548c85fa49f330cecbb1875893f971b33c4e">
+        <dex dex="C:\Users\Franck\AndroidStudioProjects\First_Map_Application\app\build\intermediates\transforms\dex\debug\folders\1000\10\gson-2.7_00dc1ee064b23f4e93b8fd35987228565dbfe2c2\classes.dex" />
+    </item>
+
+</items>

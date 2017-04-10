@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Weather -->
+    <string name="d01">Ciel Bleu</string>
+    <string name="n01">Ciel Bleu</string>
+    <string name="d02">Quelques Nuages</string>
+    <string name="n02">Quelques Nuages</string>
+    <string name="d03">Ciel Couvert</string>
+    <string name="n03">Ciel Couvert</string>
+    <string name="d04">Nuageux</string>
+    <string name="n04">Nuageux</string>
+    <string name="d09">Pluvieux</string>
+    <string name="n09">Pluvieux</string>
+    <string name="d10">Pluie</string>
+    <string name="n10">Pluie</string>
+    <string name="d11">Tempete</string>
+    <string name="n11">Tempete</string>
+    <string name="d13">Neige</string>
+    <string name="n13">Neige</string>
+    <string name="d50">Brouillard</string>
+    <string name="n50">Brouillard</string>
+    <!-- end weather -->
+
+
+</resources>
